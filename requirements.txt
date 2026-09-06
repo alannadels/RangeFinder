@@ -1,0 +1,17 @@
+# Core
+torch
+e3nn
+numpy
+pandas
+scipy
+tqdm
+
+# Radius graph + scatter ops (install wheels matching your torch/CUDA build)
+torch-scatter
+torch-cluster
+
+# Ligand chemistry (dataset construction)
+rdkit
+
+# Protein language model embeddings (dataset construction)
+fair-esm

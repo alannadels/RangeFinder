@@ -1,0 +1,23 @@
+# Data (built locally via the pipeline in scripts/)
+data/
+
+# Model checkpoints and logs
+model/checkpoints/
+*.pt
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Virtual environments
+venv/
+.venv/
+*_env/
