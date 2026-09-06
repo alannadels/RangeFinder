@@ -1,4 +1,4 @@
-# Predicting Ligand Property Ranges from Protein Pockets
+# RangeFinder: Predicting Ligand Property Ranges from Protein Pockets
 
 An SE(3)-equivariant transformer that predicts, for a protein pocket, the range of
 nine physicochemical properties spanned by the ligands compatible with it. Rather than
